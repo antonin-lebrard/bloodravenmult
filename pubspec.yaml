@@ -1,0 +1,6 @@
+name: bloodravenmult
+version: 0.0.1
+dependencies:
+  web_socket_channel: any
+  json_rpc_2: any
+  json_object: any
